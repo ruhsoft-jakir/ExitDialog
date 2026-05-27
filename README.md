@@ -119,7 +119,7 @@ Here’s how it looks in action 👇
 
 ## 🤝 Contributing  
 
-Pull requests are welcome! If you find any bug or missing permission, open an issue or create a PR.  
+Pull requests are welcome! If you find any bug , open an issue or create a PR.  
 
 ---
 
