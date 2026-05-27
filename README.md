@@ -117,7 +117,8 @@ Here’s how it looks in action 👇
 | ![Material Design](screenshots/1.png) | ![Custom Material Design](screenshots/2.png) | ![Custom Design](screenshots/3.png) |
 ---
 
-###Download Sample
+
+## 📲 Download Sample
  ![Download](sample/build/outputs/apk/debug/sample-debug.apk)
 
 
