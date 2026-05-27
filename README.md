@@ -112,7 +112,7 @@ Here’s how it looks in action 👇
 ### ⚙️ Special Access  
 
 
-| Device Admin Access                         | All Files Access                              | Usage Access                             |
+| Material Design                        | Custom Material Design                             | Material Design                             |
 |---------------------------------------------|-----------------------------------------------|---------------------------------------------|
 | ![Material Design](screenshots/1.png) | ![Custom Material Design](screenshots/2.png) | ![Custom Design](screenshots/3.png) |
 ---
