@@ -117,6 +117,10 @@ Here’s how it looks in action 👇
 | ![Material Design](screenshots/1.png) | ![Custom Material Design](screenshots/2.png) | ![Custom Design](screenshots/3.png) |
 ---
 
+###Download Sample
+ ![Download](sample/build/outputs/apk/debug/sample-debug.apk)
+
+
 ## 🤝 Contributing  
 
 Pull requests are welcome! If you find any bug , open an issue or create a PR.  
