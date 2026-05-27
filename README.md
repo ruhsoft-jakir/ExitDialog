@@ -119,7 +119,7 @@ Here’s how it looks in action 👇
 
 
 ## 📲 Download Sample
- ![Download](sample/build/outputs/apk/debug/sample-debug.apk)
+ ![Click to Download App](sample/build/outputs/apk/debug/sample-debug.apk)
 
 
 ## 🤝 Contributing  
