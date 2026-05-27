@@ -1,41 +1,56 @@
 
-# ExitDialog
+# 📌 ExitDialog            – Fast Exit Dialog
+
+A powerful and easy-to-use Android library to handle **Exit Dialog** with clean APIs and modern Material dialogs.  
+
+---
+
+## ✨ Features  
+
+### ⚙️ ExitDialog with Day Night
+- ExitDialog with Material Design
+- ExitDialog with Custom Material Design
+- ExitDialog with Custom Design
+
+
+---
+
+## 🚀 Installation  
+
 ### LATEST-VERSION
-[![](https://jitpack.io/v/alphatech-apps/ExitDialog.svg)](https://jitpack.io/#alphatech-apps/ExitDialog)
+[![](https://jitpack.io/v/ruhsoft-jakir/ExitDialog.svg)](https://jitpack.io/#ruhsoft-jakir/ExitDialog)
 
 
-## Install
-Add it in your root `build.gradle` at the end of repositories:
+Add it in your `settings.gradle` at the end of repositories:
 ```gradle
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
+//dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+//    repositories {
+//        google()
+//        mavenCentral()
         maven { url 'https://jitpack.io' }
-    }
-}
+//    }
+//}
+
 ```
-Add the dependency:
+Add on dependency via **Gradle**  `build.gradle`  (jitpack.io support):  
+
 ```gradle
 dependencies {
-	    implementation 'com.github.alphatech-apps:ExitDialog:LATESTVERSION'
-	}
+	        implementation 'com.github.ruhsoft-jakir:ExitDialog:Tag'
+}
 ```
+#### LATEST-VERSION
+[![](https://jitpack.io/v/ruhsoft-jakir/ExitDialog.svg)](https://jitpack.io/#ruhsoft-jakir/ExitDialog)
 
-## Features
-* Day Night
-* Material/Custom Design
 
-## Usage
+*(If not published yet, you can import `.aar` / `.module` locally.)*  
 
-[//]: # ()
-[//]: # (Add view to your layout:)
+---
 
-[//]: # (```xml)
+## 🛠 Usage  
 
-[//]: # ()
-[//]: # ( ```)
+### ⚙️ ExitDialog
 
 Setup JAVA:
  ```java
@@ -50,56 +65,7 @@ or
                 new Exit_Dialog_Material(MainActivity.this).showDialog(true);
  ```
 
-[//]: # ()
-[//]: # (or add other >>>>)
 
-[//]: # ()
-[//]: # ( ```java)
-
-[//]: # ()
-[//]: # ( ```)
-
-[//]: # ()
-[//]: # (Listeners:)
-
-[//]: # ()
-[//]: # ( ```java)
-
-[//]: # ()
-[//]: # ( ```)
-
-[//]: # ()
-[//]: # ()
-[//]: # (Other Methods on Menu Preference:)
-
-[//]: # ()
-[//]: # (```java)
-
-[//]: # ()
-[//]: # (```)
-
-[//]: # (.)
-
-[//]: # (.)
-
-[//]: # (.)
-
-[//]: # (.)
-
-[//]: # (.)
-
-[//]: # (.)
-
-[//]: # ()
-## full activity for example
-.....................
-
-[//]: # (activity_main:)
-
-[//]: # (```xml)
-
-[//]: # ()
-[//]: # ( ```)
 
 MainActivity:
 ```java
@@ -129,7 +95,34 @@ MainActivity:
 }
 ```
 
-## Screenshots
-![](https://github.com/alphatech-apps/ExitDialog/blob/master/Screenshots/1.png)
-![](https://github.com/alphatech-apps/ExitDialog/blob/master/Screenshots/2.png)
-![](https://github.com/alphatech-apps/ExitDialog/blob/master/Screenshots/3.png)
+
+
+## 🎨 UI/UX  
+
+- Material Design dialogs  
+- Lottie animations (`.raw` resources) for dialog
+ 
+---
+
+## 🎥 Demo  
+
+Here’s how it looks in action 👇  
+
+ 
+### ⚙️ Special Access  
+
+
+| Device Admin Access                         | All Files Access                              | Usage Access                             |
+|---------------------------------------------|-----------------------------------------------|---------------------------------------------|
+| ![Material Design](screenshots/1.png) | ![Custom Material Design](screenshots/2.png) | ![Custom Design](screenshots/3.png) |
+---
+
+## 🤝 Contributing  
+
+Pull requests are welcome! If you find any bug or missing permission, open an issue or create a PR.  
+
+---
+
+## 📜 License  
+
+This library is released under the **MIT License**.  
